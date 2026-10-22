@@ -1,0 +1,24 @@
+{
+    "name": "PTT Button",
+    "manufacturer": "Sebastian Morgenstern",
+    "maintainer": "morningstar1",
+    "url": "https://github.com/morningstar1/pttbutton",
+    "features": {
+        "bootmagic": true,
+        "mousekey": true,
+        "extrakey": true,
+        "console": true,
+        "command": true,
+        "nkro": true
+    },
+    "vendorId": "0xFEED",
+    "productId": "0xAFFE",
+	"lighting": "none",
+	"matrix": {
+		"rows": 1,
+		"cols": 1
+	},
+	"layouts": {
+		"keymap": [["0,0"]]
+	}
+}
